@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RSS Reader</string>
+    <string name="title">title</string>
+    <string name="date">date</string>
+    <string name="description">description</string>
+    <string name="sample">SAMPLE</string>
+    <string name="logo">logo</string>
+    <string name="exit">exit</string>
+    <string name="arrow">arrow</string>
+    <string name="visit_website">VISIT WEBSITE</string>
+</resources>
